@@ -18,3 +18,5 @@ const PORT = process.env.PORT || 8000;
 DBConnection();
 
 app.listen(PORT, () => console.log(`Server is running on PORT ${PORT}`));
+
+export default app;
