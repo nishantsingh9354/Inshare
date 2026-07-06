@@ -31,5 +31,5 @@ A simple and secure file-sharing web application built with the MERN stack. Uplo
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/krishnamohan2006/Inshare-File-Sharing-App.git
+git clone https://github.com/nishantsingh9354/Inshare-File-Sharing-App.git
 cd Inshare-File-Sharing-App
